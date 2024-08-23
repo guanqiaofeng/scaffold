@@ -6,6 +6,6 @@ a = 1
 b = 2
 result = add(a, b)
 
-var=
+#var=
 
 print(f"This is the sum: {a}, {b}, {result}")
